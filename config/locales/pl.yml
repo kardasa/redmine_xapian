@@ -1,0 +1,19 @@
+# Polsih strings go here for Rails i18n
+pl:
+  
+    label_enable_redmine_xapian: "Uaktywanij silnik xapain aby pozwolić przeszukiwać załączniki"
+    label_index_database: "Położenie bazy przechowującej indeks plików"
+    label_stemming_lang: "ustaw język mechanizmu stemmingu (sprowadzania wyrazów do podstawowej formy gramatycznej) domyślnym jest 'english'.
+                           Dostępne opcje to: danish dutch english finnish french
+                           german german2 hungarian italian kraaij_pohlmann
+                           lovins norwegian porter portuguese romanian russian
+                           spanish swedish turkish (wprowadź 'none' aby wyłączyć
+                           stemming)"
+    label_search2: "Zaawansowane Wyszukiwanie"
+    
+    text_search1: "Ta wtyczka wykonuje standardowe wyszukiwanie Redmine dodatkowo przeszukując załączniki. Aby umożliwić indeksowanie załączników musisz utworzyć bazę wykorzystując narzędzie omindex i skonfigurować bazę indeksów na stronie ustawień wtyczki"
+    label_document: "Dokument"
+    label_issue: "Zagadnienie"
+    label_wiki: "Wiki"
+    label_message: "Wiadomość"
+

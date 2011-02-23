@@ -36,7 +36,7 @@ From Omega documentation:
 h2. 1.2. Plugin installation
 
 Install redmine_xapian into vendor/plugins directory with:
-* ruby script/plugin install http://github.com/xelkano/redmine_xapian.git or download and extract tar or zip file.
+* ruby script/plugin install http://github.com/kardasa/redmine_xapian.git or download and extract tar or zip file.
 * rake db:migrate_plugins RAILS_ENV="production"
 * Restart web server
 
